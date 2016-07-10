@@ -1,8 +1,8 @@
 #--------------------------------------------------------------------------------
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
-workshop_repo   : "https://github.com/carpentry-instructor-training/instructor-training-session-template"
-workshop_site   : "http://carpentry-instructor-training.github.io/instructor-training-session-template"
+workshop_repo   : "https://github.com/arokem/scipy2016-instructor-training"
+workshop_site   : "https://swcarpentry.github.io/scipy2016-instructor-training/"
 #--------------------------------------------------------------------------------
 # Standard Software Carpentry settings - should not need to be modified.
 #--------------------------------------------------------------------------------
